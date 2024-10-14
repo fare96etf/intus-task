@@ -1,0 +1,6 @@
+@SvgRectangleApi_HostAddress = http://localhost:5171
+
+GET {{SvgRectangleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

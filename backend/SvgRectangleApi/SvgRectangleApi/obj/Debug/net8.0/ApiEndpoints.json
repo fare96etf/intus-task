@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "SvgRectangleApi.Controllers.RectangleController",
+    "Method": "GetRectangle",
+    "RelativePath": "Rectangle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SvgRectangleApi.Models.Rectangle",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SvgRectangleApi.Controllers.RectangleController",
+    "Method": "ValidateAndUpdateRectangle",
+    "RelativePath": "Rectangle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rectangle",
+        "Type": "SvgRectangleApi.Models.Rectangle",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

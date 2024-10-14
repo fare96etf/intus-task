@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBOLfTIatKE=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\SvgRectangleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faris\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

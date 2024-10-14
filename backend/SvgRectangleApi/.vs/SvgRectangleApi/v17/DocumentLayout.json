@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150EB69A-4A13-4A8E-8A6C-9002DE6684E6}|SvgRectangleApi\\SvgRectangleApi.csproj|d:\\projects\\intus-task\\backend\\svgrectangleapi\\svgrectangleapi\\controllers\\rectanglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150EB69A-4A13-4A8E-8A6C-9002DE6684E6}|SvgRectangleApi\\SvgRectangleApi.csproj|solutionrelative:svgrectangleapi\\controllers\\rectanglecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150EB69A-4A13-4A8E-8A6C-9002DE6684E6}|SvgRectangleApi\\SvgRectangleApi.csproj|d:\\projects\\intus-task\\backend\\svgrectangleapi\\svgrectangleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150EB69A-4A13-4A8E-8A6C-9002DE6684E6}|SvgRectangleApi\\SvgRectangleApi.csproj|solutionrelative:svgrectangleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150EB69A-4A13-4A8E-8A6C-9002DE6684E6}|SvgRectangleApi\\SvgRectangleApi.csproj|d:\\projects\\intus-task\\backend\\svgrectangleapi\\svgrectangleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{150EB69A-4A13-4A8E-8A6C-9002DE6684E6}|SvgRectangleApi\\SvgRectangleApi.csproj|solutionrelative:svgrectangleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 282,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\Program.cs",
+              "RelativeDocumentMoniker": "SvgRectangleApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\Program.cs",
+              "RelativeToolTip": "SvgRectangleApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:37:34.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SvgRectangleApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SvgRectangleApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T17:04:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RectangleController.cs",
+              "DocumentMoniker": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\Controllers\\RectangleController.cs",
+              "RelativeDocumentMoniker": "SvgRectangleApi\\Controllers\\RectangleController.cs",
+              "ToolTip": "D:\\Projects\\intus-task\\backend\\SvgRectangleApi\\SvgRectangleApi\\Controllers\\RectangleController.cs",
+              "RelativeToolTip": "SvgRectangleApi\\Controllers\\RectangleController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:20:27.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
